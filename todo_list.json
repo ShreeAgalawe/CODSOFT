@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Time For Jogging",
+        "completed": false
+    },
+    {
+        "title": "Set up CodSoft internship GitHub repository",
+        "completed": true
+    },
+    {
+        "title": "Write functional Python script for Task 1",
+        "completed": true
+    },
+    {
+        "title": "Draft README.md instructions for the evaluator",
+        "completed": false
+    },
+    {
+        "title": "Research logic for Task 2 assignment",
+        "completed": false
+    },
+    {
+        "title": "Push initial commits to the main branch",
+        "completed": false
+    }
+]
